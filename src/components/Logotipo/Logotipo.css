@@ -1,0 +1,15 @@
+#LogoTipo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../img/fundo.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:391px ;
+    height:150px ;
+}
+#LogoTipo img{
+    width:125px ;
+    height:125px ;
+}
